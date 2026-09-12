@@ -1,3 +1,10 @@
+---
+layout: default
+title: Character Creation
+permalink: /Character_Creation/
+nav: true
+nav_order: 1
+---
 == Character ==
 In the Jujutsu world, your character has a lot of variety to choose from, ranging from robots who launch missiles to being a literal panda.
 
